@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-import "https://github.com/Smart0tter/TradeFinance/blob/master/SafeMath.sol";
+import "./SafeMath.sol";
 
 contract Whitelist {
     
@@ -42,3 +42,4 @@ contract Whitelist {
         return(whitelisted[_financier]);
     }
 }
+
