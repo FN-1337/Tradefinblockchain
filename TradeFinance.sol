@@ -1,7 +1,7 @@
 pragma solidity ^0.5.11;
 
-import "https://github.com/Smart0tter/TradeFinance/blob/master/SafeMath.sol";
-import "https://github.com/Smart0tter/TradeFinance/blob/master/Whitelist.sol";
+import "./SafeMath.sol";
+import "./Whitelist.sol";
 
 contract TradeFinance {
     
@@ -66,8 +66,8 @@ contract TradeFinance {
     
     mapping(bytes32 => Order) public orders;
     
-    constructor() public {
-        msg.sender == seller;
+    constructor (address whitelist_address) public {
+	w = Whitelist(whitelist_address);
     } 
     
     struct Guarantee {
