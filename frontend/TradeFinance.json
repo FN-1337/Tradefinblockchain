@@ -1,6 +1,12 @@
 [
 	{
-		"inputs": [],
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "whitelist_address",
+				"type": "address"
+			}
+		],
 		"payable": false,
 		"stateMutability": "nonpayable",
 		"type": "constructor"
