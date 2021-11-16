@@ -1,7 +1,7 @@
 pragma solidity ^0.5.11;
 
 import "github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/math/SafeMath.sol";
-import "./Whitelist.sol";
+import "https://github.com/FN-1337/Tradefinblockchain/blob/master/Whitelist.sol";
 
 contract TradeFinance {
     
