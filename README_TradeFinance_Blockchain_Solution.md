@@ -34,4 +34,8 @@ Three key features of Blockchain are instrumental in treating the major pain poi
 The Cryptographic security underlying blockchain technology enables information immutability and credibility, the distributed ledger architecture provides transaction transparency and traceability, the network consensus mechanism provides a single source of truth for enabling native issuance of financial assets (trade receivables and other payment obligations can be natively issued in blockchain to reduce fraud and enable banks to offer more attractive financing. 
 
 ## References
-Riqueza Finolutions Ltd, Ploytrade White Paper Shaping the Future of Trade Finance, March 11, 2021
+Riqueza Finolutions Ltd (March 11th,2021), Ploytrade White Paper Shaping the Future of Trade Finance
+
+Cognizant (August 2017) Digital Business, How Blockchain Can Revitalize Trade Finance (Part 1)
+
+Oracle Financial Services (December 11th, 2018), White Paper, Fostering Smarter Trade Finance Operations Digital Engagement in Trade Finance
