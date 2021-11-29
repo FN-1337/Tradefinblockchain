@@ -59,3 +59,6 @@ function receiveOrderCustoms(bytes32 _OrderAddress) public
     inOrderState(OrderState.Locked) onlyCustoms returns (bool)
 ```
 
+## References
+
+Alexander Blum (November 1st, 2021) Blockchain and Trade Finance: A Smart Contract-Based Solution
