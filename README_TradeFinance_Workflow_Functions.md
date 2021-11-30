@@ -61,4 +61,4 @@ function receiveOrderCustoms(bytes32 _OrderAddress) public
 
 ## References
 
-Alexander Blum (November 1st, 2021) Blockchain and Trade Finance: A Smart Contract-Based Solution
+Alexander Blum (November 18th, 2019) Master Thesis: Blockchain and Trade Finance: A Smart Contract-Based Solution
